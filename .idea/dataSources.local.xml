@@ -4,6 +4,11 @@
     <data-source name="movie" uuid="daac2266-1fd5-4826-b47b-06c33046aa96">
       <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" exact-version="0" />
       <auth-required>false</auth-required>
+      <introspection-schemas>*:</introspection-schemas>
+    </data-source>
+    <data-source name="movie [2]" uuid="130a0491-567c-446b-aae6-5767b025082c">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" exact-version="0" />
+      <auth-required>false</auth-required>
     </data-source>
   </component>
 </project>
